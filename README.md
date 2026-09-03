@@ -46,5 +46,4 @@ Game & Web Developer working with **Luau (Roblox)** and actively exploring **Typ
 
 ### Contact
 
-- **Portfolio:** [alankk.dev](https://alankk.dev)
 - **Discord:** [Chat with me](https://discord.com/users/723482986196107374)
