@@ -4,6 +4,7 @@ Game & Web Developer working with **Luau (Roblox)** and actively exploring **Typ
 
 [![Website](https://img.shields.io/badge/Website-alankk.dev-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://alankk.dev)
 [![Discord](https://img.shields.io/badge/Discord-Chat%20with%20me-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/723482986196107374)
+![Profile Views](https://komarev.com/ghpvc/?username=AlanKKDev&color=2563EB&style=flat-square&label=PROFILE+VIEWS)
 
 ---
 
